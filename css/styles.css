@@ -39,7 +39,7 @@ footer {
   text-align: center;
   font-size: 14px;
 }
-header img {
+header img { /* For the profile picture in header */
   width: 96px;
   height: 96px;
   object-fit: cover;
